@@ -11,3 +11,5 @@ _build
 .vscode
 .envrc
 .direnv
+*.egg-info
+.pybuild/
