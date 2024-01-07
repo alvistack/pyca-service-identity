@@ -1,0 +1,5 @@
+python-service-identity (100:24.1.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pyca/service-identity/releases/tag/24.1.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sun, 14 Jan 2024 16:53:35 +0800
