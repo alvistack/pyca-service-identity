@@ -1,0 +1,5 @@
+python-service-identity source: file-without-copyright-information
+python-service-identity source: no-debian-changes
+python-service-identity source: source-contains-prebuilt-windows-binary
+python-service-identity source: source-is-missing
+python-service-identity source: source-package-encodes-python-version
